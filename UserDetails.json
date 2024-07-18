@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "66994d6e1607d32231c61d84"
+  },
+  "name": "admin",
+  "email": "admin@vinbook.com",
+  "phone": "123",
+  "address": "123",
+  "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+},{
+  "_id": {
+    "$oid": "66994de91607d32231c61d85"
+  },
+  "name": "example",
+  "email": "example@example.com",
+  "phone": "123",
+  "address": "123",
+  "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+}]
